@@ -59,7 +59,7 @@ group :development do
   gem "web-console"
 end
 
-gem "devise", "~> 4.9"
+gem "devise", "~> 5.0"
 
 gem "bulma-rails", "~> 1.0"
 
